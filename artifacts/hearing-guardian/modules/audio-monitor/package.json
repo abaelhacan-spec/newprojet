@@ -1,0 +1,7 @@
+{
+  "name": "audio-monitor",
+  "version": "1.0.0",
+  "description": "Native Android module that reports headset connection and audio playback state to React Native.",
+  "main": "index.ts",
+  "private": true
+}
